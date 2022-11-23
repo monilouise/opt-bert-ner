@@ -5,6 +5,8 @@ Deep Learning course (IN1164) at Federal University of Pernambuco, under supervi
 
 Source code will be soon available.
 
+This work is under constant revision.
+
 Links: 
 - https://deeplearning.cin.ufpe.br/research/
 - https://deeplearning.cin.ufpe.br/
