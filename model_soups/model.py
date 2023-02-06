@@ -5,8 +5,7 @@ from argparse import Namespace
 from typing import Any, Dict, Optional, Tuple, Type
 
 import torch
-from pytorch_transformers.modeling_bert import (BertConfig,
-                                                BertForTokenClassification)
+import pytorch_transformers.modeling_bert
 from torchcrf import CRF
 
 LOGGER = logging.getLogger(__name__)
